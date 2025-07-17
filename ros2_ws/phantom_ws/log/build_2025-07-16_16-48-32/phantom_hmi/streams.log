@@ -1,0 +1,21 @@
+[2.655s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantom_hmi': PYTHONPATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/phantom_hmi build --build-base /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/build install --record /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/install.log --single-version-externally-managed install_data
+[3.201s] running egg_info
+[3.202s] writing ../../build/phantom_hmi/phantom_hmi.egg-info/PKG-INFO
+[3.280s] writing dependency_links to ../../build/phantom_hmi/phantom_hmi.egg-info/dependency_links.txt
+[3.280s] writing entry points to ../../build/phantom_hmi/phantom_hmi.egg-info/entry_points.txt
+[3.280s] writing requirements to ../../build/phantom_hmi/phantom_hmi.egg-info/requires.txt
+[3.280s] writing top-level names to ../../build/phantom_hmi/phantom_hmi.egg-info/top_level.txt
+[3.283s] reading manifest file '../../build/phantom_hmi/phantom_hmi.egg-info/SOURCES.txt'
+[3.284s] writing manifest file '../../build/phantom_hmi/phantom_hmi.egg-info/SOURCES.txt'
+[3.307s] running build
+[3.308s] running build_py
+[3.314s] running install
+[3.318s] running install_lib
+[3.403s] running install_data
+[3.461s] running install_egg_info
+[3.462s] removing '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi/lib/python3.10/site-packages/phantom_hmi-0.0.1-py3.10.egg-info' (and everything under it)
+[3.491s] Copying ../../build/phantom_hmi/phantom_hmi.egg-info to /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi/lib/python3.10/site-packages/phantom_hmi-0.0.1-py3.10.egg-info
+[3.492s] running install_scripts
+[3.627s] Installing phantom_hmi script to /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi/lib/phantom_hmi
+[3.627s] writing list of installed files to '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/install.log'
+[3.733s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantom_hmi' returned '0': PYTHONPATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/phantom_hmi build --build-base /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/build install --record /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_hmi/install.log --single-version-externally-managed install_data

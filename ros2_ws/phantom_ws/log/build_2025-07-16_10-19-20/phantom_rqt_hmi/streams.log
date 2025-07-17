@@ -1,0 +1,33 @@
+[0.798s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantom_rqt_hmi': PYTHONPATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/phantom_rqt_hmi build --build-base /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build install --record /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/install.log --single-version-externally-managed install_data
+[1.042s] running egg_info
+[1.042s] creating ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info
+[1.042s] writing ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/PKG-INFO
+[1.042s] writing dependency_links to ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/dependency_links.txt
+[1.043s] writing entry points to ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/entry_points.txt
+[1.043s] writing requirements to ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/requires.txt
+[1.043s] writing top-level names to ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/top_level.txt
+[1.043s] writing manifest file '../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/SOURCES.txt'
+[1.043s] reading manifest file '../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/SOURCES.txt'
+[1.044s] writing manifest file '../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/SOURCES.txt'
+[1.045s] running build
+[1.046s] running build_py
+[1.047s] creating /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build
+[1.047s] creating /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build/lib
+[1.055s] creating /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build/lib/phantom_rqt_hmi
+[1.055s] copying phantom_rqt_hmi/phantom_panel.py -> /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build/lib/phantom_rqt_hmi
+[1.055s] copying phantom_rqt_hmi/__init__.py -> /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build/lib/phantom_rqt_hmi
+[1.055s] running install
+[1.055s] running install_lib
+[1.065s] creating /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages/phantom_rqt_hmi
+[1.065s] copying /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build/lib/phantom_rqt_hmi/phantom_panel.py -> /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages/phantom_rqt_hmi
+[1.066s] copying /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build/lib/phantom_rqt_hmi/__init__.py -> /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages/phantom_rqt_hmi
+[1.066s] byte-compiling /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages/phantom_rqt_hmi/phantom_panel.py to phantom_panel.cpython-310.pyc
+[1.096s] byte-compiling /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages/phantom_rqt_hmi/__init__.py to __init__.cpython-310.pyc
+[1.096s] running install_data
+[1.096s] copying package.xml -> /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/share/phantom_rqt_hmi
+[1.096s] copying plugin.xml -> /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/share/phantom_rqt_hmi
+[1.096s] running install_egg_info
+[1.096s] Copying ../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info to /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages/phantom_rqt_hmi-0.0.1-py3.10.egg-info
+[1.096s] running install_scripts
+[1.103s] writing list of installed files to '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/install.log'
+[1.144s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantom_rqt_hmi' returned '0': PYTHONPATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/phantom_rqt_hmi build --build-base /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/build install --record /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantom_rqt_hmi/install.log --single-version-externally-managed install_data

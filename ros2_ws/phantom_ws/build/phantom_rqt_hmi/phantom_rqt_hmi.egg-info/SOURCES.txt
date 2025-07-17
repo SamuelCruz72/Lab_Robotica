@@ -1,0 +1,16 @@
+package.xml
+plugin.xml
+setup.cfg
+setup.py
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/PKG-INFO
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/SOURCES.txt
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/dependency_links.txt
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/entry_points.txt
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/requires.txt
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/top_level.txt
+../../build/phantom_rqt_hmi/phantom_rqt_hmi.egg-info/zip-safe
+phantom_rqt_hmi/__init__.py
+phantom_rqt_hmi/phantom_panel.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

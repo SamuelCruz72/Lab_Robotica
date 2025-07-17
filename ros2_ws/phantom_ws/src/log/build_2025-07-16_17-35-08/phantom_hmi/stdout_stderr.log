@@ -1,0 +1,19 @@
+running egg_info
+writing ../build/phantom_hmi/phantom_hmi.egg-info/PKG-INFO
+writing dependency_links to ../build/phantom_hmi/phantom_hmi.egg-info/dependency_links.txt
+writing entry points to ../build/phantom_hmi/phantom_hmi.egg-info/entry_points.txt
+writing requirements to ../build/phantom_hmi/phantom_hmi.egg-info/requires.txt
+writing top-level names to ../build/phantom_hmi/phantom_hmi.egg-info/top_level.txt
+reading manifest file '../build/phantom_hmi/phantom_hmi.egg-info/SOURCES.txt'
+writing manifest file '../build/phantom_hmi/phantom_hmi.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantom_hmi/lib/python3.10/site-packages/phantom_hmi-0.0.1-py3.10.egg-info' (and everything under it)
+Copying ../build/phantom_hmi/phantom_hmi.egg-info to /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantom_hmi/lib/python3.10/site-packages/phantom_hmi-0.0.1-py3.10.egg-info
+running install_scripts
+Installing phantom_hmi script to /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantom_hmi/lib/phantom_hmi
+writing list of installed files to '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantom_hmi/install.log'

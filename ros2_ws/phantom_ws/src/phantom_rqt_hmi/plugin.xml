@@ -1,0 +1,7 @@
+<library path="phantom_rqt_hmi/phantom_panel">
+  <class name="phantom_rqt_hmi/PhantomPlugin"
+         type="phantom_rqt_hmi.phantom_panel.PhantomPlugin"
+         base_class_type="rqt_gui_py::Plugin">
+    <description>Plugin HMI para el Phantom</description>
+  </class>
+</library>

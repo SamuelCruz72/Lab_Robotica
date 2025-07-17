@@ -1,0 +1,96 @@
+[0.031s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description': CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi:/opt/ros/humble /usr/bin/cmake /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantomx_pincher/phantomx_pincher_description -DCMAKE_INSTALL_PREFIX=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description
+[0.844s] -- The C compiler identification is GNU 11.4.0
+[1.114s] -- The CXX compiler identification is GNU 11.4.0
+[1.140s] -- Detecting C compiler ABI info
+[1.317s] -- Detecting C compiler ABI info - done
+[1.325s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.327s] -- Detecting C compile features
+[1.341s] -- Detecting C compile features - done
+[1.349s] -- Detecting CXX compiler ABI info
+[1.523s] -- Detecting CXX compiler ABI info - done
+[1.535s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.535s] -- Detecting CXX compile features
+[1.537s] -- Detecting CXX compile features - done
+[1.586s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.878s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.282s] -- Configuring done
+[2.297s] -- Generating done
+[2.309s] -- Build files have been written to: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description
+[2.421s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description' returned '0': CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi:/opt/ros/humble /usr/bin/cmake /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantomx_pincher/phantomx_pincher_description -DCMAKE_INSTALL_PREFIX=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description
+[2.422s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description': CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi:/opt/ros/humble /usr/bin/cmake --build /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description -- -j2 -l2
+[2.502s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description' returned '0': CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi:/opt/ros/humble /usr/bin/cmake --build /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description -- -j2 -l2
+[2.518s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description': CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi:/opt/ros/humble /usr/bin/cmake --install /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description
+[2.529s] -- Install configuration: ""
+[2.529s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/lib/phantomx_pincher_description/xacro2sdf_direct.bash
+[2.530s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/lib/phantomx_pincher_description/xacro2sdf.bash
+[2.530s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/lib/phantomx_pincher_description/xacro2urdf.bash
+[2.533s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/config
+[2.534s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/config/initial_joint_positions.yaml
+[2.535s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/launch
+[2.537s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/launch/view.launch.py
+[2.538s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/launch/view_gz.launch.py
+[2.541s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher
+[2.542s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/model.sdf
+[2.544s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes
+[2.546s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/collision
+[2.547s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/collision/finger.stl
+[2.549s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/collision/task_board.stl
+[2.551s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual
+[2.551s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/finger.dae
+[2.553s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/f4.dae
+[2.560s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/f10.dae
+[2.572s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/task_board.dae
+[2.578s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/f3.dae
+[2.582s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/ax12.dae
+[2.596s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/phantomx_pincher_mount.dae
+[2.653s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/f2.dae
+[2.661s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/task_board_module_phantomx_pincher_mount.dae
+[2.664s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/meshes/visual/gripper_base.dae
+[2.666s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/model.config
+[2.667s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/thumbnails
+[2.669s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/phantomx_pincher/thumbnails/0.png
+[2.672s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes
+[2.673s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/collision
+[2.673s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/collision/finger.stl
+[2.674s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/collision/task_board.stl
+[2.675s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual
+[2.675s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/finger.dae
+[2.676s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/f4.dae
+[2.677s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/f10.dae
+[2.679s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/task_board.dae
+[2.680s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/f3.dae
+[2.681s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/ax12.dae
+[2.685s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/phantomx_pincher_mount.dae
+[2.687s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/f2.dae
+[2.688s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/task_board_module_phantomx_pincher_mount.dae
+[2.689s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/meshes/visual/gripper_base.dae
+[2.690s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/rviz
+[2.690s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/rviz/view.rviz
+[2.692s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf
+[2.693s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher.urdf.xacro
+[2.694s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher_hardware.xacro
+[2.696s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher.ros2_control
+[2.697s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher.gazebo
+[2.699s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher_inertial.xacro
+[2.700s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher_utils.xacro
+[2.702s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher.urdf
+[2.704s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher_arm.xacro
+[2.705s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/urdf/phantomx_pincher_mounting.xacro
+[2.707s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/environment/phantomx_pincher_description.dsv
+[2.708s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/environment/phantomx_pincher_description.sh
+[2.709s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/ament_index/resource_index/package_run_dependencies/phantomx_pincher_description
+[2.711s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/ament_index/resource_index/parent_prefix_path/phantomx_pincher_description
+[2.713s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/environment/ament_prefix_path.sh
+[2.714s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/environment/ament_prefix_path.dsv
+[2.715s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/environment/path.sh
+[2.716s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/environment/path.dsv
+[2.716s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/local_setup.bash
+[2.717s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/local_setup.sh
+[2.718s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/local_setup.zsh
+[2.718s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/local_setup.dsv
+[2.719s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/package.dsv
+[2.720s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/ament_index/resource_index/packages/phantomx_pincher_description
+[2.722s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/cmake/phantomx_pincher_descriptionConfig.cmake
+[2.723s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/cmake/phantomx_pincher_descriptionConfig-version.cmake
+[2.723s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantomx_pincher_description/share/phantomx_pincher_description/package.xml
+[2.750s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description' returned '0': CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_rqt_hmi:/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/install/phantom_hmi:/opt/ros/humble /usr/bin/cmake --install /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/build/phantomx_pincher_description

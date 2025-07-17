@@ -1,0 +1,3 @@
+[console_scripts]
+phantom_hmi = phantom_hmi.hmi_main:main
+

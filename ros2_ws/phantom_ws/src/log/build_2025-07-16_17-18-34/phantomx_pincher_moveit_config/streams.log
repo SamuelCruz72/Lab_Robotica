@@ -1,0 +1,60 @@
+[0.017s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config': AMENT_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:/opt/ros/humble IGN_GAZEBO_RESOURCE_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description /usr/bin/cmake /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantomx_pincher/phantomx_pincher_moveit_config -DCMAKE_INSTALL_PREFIX=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config
+[0.299s] -- The C compiler identification is GNU 11.4.0
+[0.411s] -- The CXX compiler identification is GNU 11.4.0
+[0.426s] -- Detecting C compiler ABI info
+[0.558s] -- Detecting C compiler ABI info - done
+[0.570s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.571s] -- Detecting C compile features
+[0.572s] -- Detecting C compile features - done
+[0.577s] -- Detecting CXX compiler ABI info
+[0.704s] -- Detecting CXX compiler ABI info - done
+[0.712s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.712s] -- Detecting CXX compile features
+[0.713s] -- Detecting CXX compile features - done
+[0.716s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.921s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.096s] -- Found phantomx_pincher_description: 1.0.0 (/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description/cmake)
+[1.165s] -- Configuring done
+[1.165s] -- Generating done
+[1.177s] -- Build files have been written to: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config
+[1.183s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:/opt/ros/humble IGN_GAZEBO_RESOURCE_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description /usr/bin/cmake /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/phantomx_pincher/phantomx_pincher_moveit_config -DCMAKE_INSTALL_PREFIX=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config
+[1.183s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config': AMENT_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:/opt/ros/humble IGN_GAZEBO_RESOURCE_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description /usr/bin/cmake --build /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config -- -j2 -l2
+[1.341s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:/opt/ros/humble IGN_GAZEBO_RESOURCE_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description /usr/bin/cmake --build /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config -- -j2 -l2
+[1.341s] Invoking command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config': AMENT_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:/opt/ros/humble IGN_GAZEBO_RESOURCE_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description /usr/bin/cmake --install /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config
+[1.377s] -- Install configuration: ""
+[1.377s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config
+[1.380s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/servo.yaml
+[1.390s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/servo_real.yaml
+[1.398s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/controllers_position.yaml
+[1.400s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/phantomx_pincher.srdf
+[1.400s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/ompl_planning.yaml
+[1.404s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/controllers_effort.yaml
+[1.405s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/joint_limits.yaml
+[1.406s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/kinematics.yaml
+[1.408s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/moveit_controller_manager_gripper_trajectory.yaml
+[1.410s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/config/moveit_controller_manager_gripper_command.yaml
+[1.411s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/launch
+[1.411s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/launch/move_group_external_control.launch.py
+[1.411s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/launch/move_group.launch.py
+[1.411s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/rviz
+[1.411s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/rviz/moveit.rviz
+[1.413s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/srdf
+[1.413s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/srdf/phantomx_pincher.xacro
+[1.415s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/srdf/phantomx_pincher.srdf
+[1.417s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/srdf/phantomx_pincher.srdf.xacro
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/ament_index/resource_index/package_run_dependencies/phantomx_pincher_moveit_config
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/ament_index/resource_index/parent_prefix_path/phantomx_pincher_moveit_config
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/environment/ament_prefix_path.sh
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/environment/ament_prefix_path.dsv
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/environment/path.sh
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/environment/path.dsv
+[1.423s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/local_setup.bash
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/local_setup.sh
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/local_setup.zsh
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/local_setup.dsv
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/package.dsv
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/ament_index/resource_index/packages/phantomx_pincher_moveit_config
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/cmake/phantomx_pincher_moveit_configConfig.cmake
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/cmake/phantomx_pincher_moveit_configConfig-version.cmake
+[1.424s] -- Installing: /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_moveit_config/share/phantomx_pincher_moveit_config/package.xml
+[1.430s] Invoked command in '/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description:/opt/ros/humble IGN_GAZEBO_RESOURCE_PATH=/home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/install/phantomx_pincher_description/share/phantomx_pincher_description /usr/bin/cmake --install /home/samuelcruz/Lab_Robotica/ros2_ws/phantom_ws/src/build/phantomx_pincher_moveit_config
