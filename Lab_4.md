@@ -19,6 +19,7 @@ El objetivo de esta práctica de laboratoria es aprender a controlar los Joint C
 
 ## Configuraciones del Robot
 ```mermaid
+flowchart TD
  A[Inicio interfaz HMI] --> B{¿Qué botón presionó?}
 
     B --> C1[Home]
