@@ -61,6 +61,11 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
    <img src="Figuras\Lab4\Home.png" alt="Home" width="500"><br> 
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/405d5181-f8c0-4c9b-ac75-4aa02b1c7bad" alt="Imagen del robot fisico en pose HOME" width="300">
+</p>
+
 ### Pose 1
 
 La primera pose tiene los siguientes valores artículares con respecto a la posición de home:
@@ -72,11 +77,9 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
    <img src="Figuras\Lab4\1.png" alt="Pose_1" width="500"><br> 
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/405d5181-f8c0-4c9b-ac75-4aa02b1c7bad" alt="Condiciones articulares para Home1" width="300">
+  <img src="https://github.com/user-attachments/assets/e0571a7d-b4c7-47d6-9ffa-70445fdbce40" alt="Imagen del robot fisico en pose 1" width="300">
 </p>
-
 ### Pose 2
 
 La segunda pose tiene los siguientes valores artículares con respecto a la posición de home:
@@ -87,6 +90,11 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 
 <p align="center">
    <img src="Figuras\Lab4\2.png" alt="Pose_2" width="500"><br> 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7f35381f-93ac-4944-b1f4-5563a5a6e121" alt="Imagen del robot fisico en pose 2" width="300">
+</p>
+
 
 ### Pose 3
 
@@ -100,6 +108,10 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
    <img src="Figuras\Lab4\3.png" alt="Pose_3" width="500"><br> 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b1ffa88c-b31c-4d4c-bdd5-ea8b6e356561" alt="Imagen del robot fisico en pose 3" width="300">
+</p>
+
 ### Pose 4
 
 La cuarta pose tiene los siguientes valores artículares con respecto a la posición de home:
@@ -112,6 +124,10 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
    <img src="Figuras\Lab4\4.png" alt="Pose_4"  width="500"><br> 
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af9aabcd-a547-427b-9895-ceb912bc0593" alt="Imagen del robot fisico en pose 4" width="300">
+</p>
 
 ## Control del Phantom Pincher
 
