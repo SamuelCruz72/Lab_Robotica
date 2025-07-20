@@ -18,7 +18,37 @@ El objetivo de esta práctica de laboratoria es aprender a controlar los Joint C
 | 5 | $\theta_5$ |  77 |  0  |    0    |    0   |
 
 ## Configuraciones del Robot
+```mermaid
+ A[Inicio interfaz HMI] --> B{¿Qué botón presionó?}
 
+    B --> C1[Home]
+    C1 --> D1[Robot vuelve a su posición inicial 0, 0, 0, 0, 0]
+
+    B --> C2[Pose 2]
+    C2 --> D2[Robot se mueve 
+    25, 25, 20, -20, 0]
+
+    B --> C3[Pose 3]
+    C3 --> D3[Robot se mueve 
+    -35, 35, -30, 30, 0]
+
+    B --> C4[Pose 4]
+    C4 --> D4[Robo se mueve 
+    85, -20, 55, 25, 0]
+
+    B --> C5[Pose 5]
+    C5 --> D5[Robot se mueve
+    80, -35, 55, -45, 0]
+
+    D1 --> E[Se actualiza en pantalla la posición de cada articulación]
+    D2 --> E
+    D3 --> E
+    D4 --> E
+    D5 --> E
+
+    E --> B
+
+```
 ### Home
 
 En la posición de home todos los valores articulares del pincher tienen un valor de 512 que representa la mitad del rango que tienen los 5 servomotores Dynamixel con lo cual el vector q en esta pose se define como:
