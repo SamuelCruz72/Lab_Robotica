@@ -131,12 +131,12 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 
 ## Plano e imagen desde vista superior de la planta donde esta el Phantom Pincher
 
-### Plano
+### Plano de la planta
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6946d622-052b-47e2-9931-f7f18d22f6a5" alt="Plano de la planta del Phantom Pincher" width="300">
+  <img src="https://github.com/user-attachments/assets/6946d622-052b-47e2-9931-f7f18d22f6a5" alt="Plano de la planta del Phantom Pincher" width="700">
 </p>
 
-### Vista superior
+### Vista superior de la planta
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aabfc3ff-cafc-43fd-940d-be6180d13c6a" alt="Vista superior" width="300">
 </p>
