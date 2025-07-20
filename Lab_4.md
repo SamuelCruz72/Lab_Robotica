@@ -1,6 +1,6 @@
 # Laboratorio No. 04 - 2025-I - Cinemática Directa - Phantom X - ROS
 
-El objetivo de esta práctica de laboratoria es aprender a controlar los Joint Controllers de ROS para manipular los servomotores Dynamixel AX-12 del robot Phantom X Pincher a fin de ubicarlo en cualquier pose predeterminada a partir de los valores de sus ángulos en las articulaciones.
+El objetivo de esta práctica de laboratoria es aprender a controlar los Joint Controllers de ROS para manipular los servomotores Dynamixel AX-12 del robot Phantom X Pincher a fin de ubicarlo en cualquier pose predeterminada a partir de los valores de sus ángulos en las articulaciones, adicionalmente diseñar un HMI que tuviera las distintas poses para elegir, que también mostrase la información de las articulaciones y la información de los integrantes del grupo.
 
 ## Representación del Robot Phantom X Pincher
 <p align="center">
