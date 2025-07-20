@@ -72,6 +72,11 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
    <img src="Figuras\Lab4\1.png" alt="Pose_1" width="500"><br> 
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/405d5181-f8c0-4c9b-ac75-4aa02b1c7bad" alt="Condiciones articulares para Home1" width="300">
+</p>
+
 ### Pose 2
 
 La segunda pose tiene los siguientes valores artículares con respecto a la posición de home:
@@ -137,8 +142,22 @@ entry_points={
 
 ```
 
-Para ejecutar el controlador se debe ejecutar el siguiente comando en una terminal que ya haya compilado el paquete:
+### Funciones mas importantes utilizadas
+```python
+send_relative_pose(self, delta)
+```
+Es una función del nodo ROS, lo que hace es envíar las posiciones para las articulaciones del robot sumando el desplazamiento delta a la posición base, en este caso (home_pose), esto lo hace creando un mensaje JointState y publicandolo en el tópico /phantom/joint_target.
+```python
+joint_callback(self, msg)
+```
+Está función recibe el estado actual de las articulaciones, guarda las posiciones en self.latest_joint_positions y actualiza la pantalla con los valores actuales.
 
+```python
+update_joint_labels(self, positions)
+```
+Es la función que se encarga de actualizar los textos de las etiquetas que muestran la posición actual de cada articulación.
+
+Para ejecutar el controlador se debe ejecutar el siguiente comando en una terminal que ya haya compilado el paquete:
 ```bash
 ros2 run pincher_control control_servo
 ```
