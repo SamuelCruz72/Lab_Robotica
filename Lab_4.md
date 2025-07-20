@@ -129,6 +129,17 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
   <img src="https://github.com/user-attachments/assets/af9aabcd-a547-427b-9895-ceb912bc0593" alt="Imagen del robot fisico en pose 4" width="300">
 </p>
 
+## Plano e imagen desde vista superior de la planta donde esta el Phantom Pincher
+
+### Plano
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6946d622-052b-47e2-9931-f7f18d22f6a5" alt="Plano de la planta del Phantom Pincher" width="300">
+</p>
+
+### Vista superior
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aabfc3ff-cafc-43fd-940d-be6180d13c6a" alt="Vista superior" width="300">
+</p>
 ## Control del Phantom Pincher
 
 Antes de poder controlar el phantom, se deben instalar todas las librerías que controlan los servomotores, para ello se debe ejecutar el siguiente comando en una terminal que ya esté configurada con la ruta del ROS:
