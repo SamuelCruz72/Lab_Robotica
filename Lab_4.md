@@ -50,6 +50,8 @@ flowchart TD
     E --> B
 
 ```
+Durante el desarrollo del laboratorio, se observó que una de sus articulaciones no se movió de manera esperada, esto se le atribuye a la enorme latencia que es introducida por el uso de una máquina virtual en medio del proceso de control, el proceso de comunicación es directamente afectado, por lo que a pesar de que los comandos de control estén bien ejecutados, la articulación no respondió oportunamente o inclusó ignoro el comando al llegar en tiempos no esperados por el robot.
+
 ### Home
 
 En la posición de home todos los valores articulares del pincher tienen un valor de 512 que representa la mitad del rango que tienen los 5 servomotores Dynamixel con lo cual el vector q en esta pose se define como:
@@ -80,6 +82,7 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0571a7d-b4c7-47d6-9ffa-70445fdbce40" alt="Imagen del robot fisico en pose 1" width="300">
 </p>
+
 ### Pose 2
 
 La segunda pose tiene los siguientes valores artículares con respecto a la posición de home:
@@ -140,6 +143,7 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aabfc3ff-cafc-43fd-940d-be6180d13c6a" alt="Vista superior" width="300">
 </p>
+
 ## Control del Phantom Pincher
 
 Antes de poder controlar el phantom, se deben instalar todas las librerías que controlan los servomotores, para ello se debe ejecutar el siguiente comando en una terminal que ya esté configurada con la ruta del ROS:
