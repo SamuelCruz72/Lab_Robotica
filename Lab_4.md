@@ -228,3 +228,7 @@ Para ejecutar el HMI se debe ejecutar el siguiente comando en una terminal que y
 ```bash
 ros2 run phantom_hmi hmi_gui
 ```
+
+## [Video explicativo del trabajo realizado](https://drive.google.com/file/d/163RWanmiTWWNt5xJiaSZYgJFdOw2tVGp/view?usp=sharing)
+
+## [Video del funcionamiento en el lab](https://drive.google.com/file/d/1lBSTGnlAyypW5a2xq-HKPlrpWfFHm7JT/view?usp=sharing)
