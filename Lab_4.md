@@ -32,7 +32,7 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 
 ### Pose 1
 
-La primera pose tiene los siguientes valores artículares con respecto a la posición de home:
+La primera pose tiene los siguientes valores artículares en bits con respecto a la posición de home:
 
 $$q=<25,25,20,-20,0>$$
 
@@ -43,7 +43,7 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 
 ### Pose 2
 
-La segunda pose tiene los siguientes valores artículares con respecto a la posición de home:
+La segunda pose tiene los siguientes valores artículares en bits con respecto a la posición de home:
 
 $$q=<-35,35,-30,30,0>$$
 
@@ -54,7 +54,7 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 
 ### Pose 3
 
-La tercera pose tiene los siguientes valores artículares con respecto a la posición de home:
+La tercera pose tiene los siguientes valores artículares en bits con respecto a la posición de home:
 
 $$q=<85,-20,55,25,0>$$
 
@@ -66,7 +66,7 @@ Con lo cual nos queda el siguiente diagrama del Robot usando el RVCTools de Pete
 
 ### Pose 4
 
-La cuarta pose tiene los siguientes valores artículares con respecto a la posición de home:
+La cuarta pose tiene los siguientes valores artículares en bits con respecto a la posición de home:
 
 $$q=<80,-35,55,-45,0>$$
 
@@ -145,5 +145,5 @@ entry_points={
 Para ejecutar el HMI se debe ejecutar el siguiente comando en una terminal que ya haya compilado el paquete:
 
 ```bash
-ros2 run phantom_hmi hmi_gui
+ros2 run phantom_hmi phantom_hmi
 ```
