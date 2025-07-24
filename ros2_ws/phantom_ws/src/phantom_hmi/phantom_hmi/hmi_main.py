@@ -46,11 +46,18 @@ class HMIWindow(QWidget):
         layout = QVBoxLayout()
 
         # Título con nuestros nombres
-        title = QLabel("HMI – Phantom Pincher\nSamuel Alejandro Cruz Saavedra")
+        title = QLabel("HMI – Phantom Pincher\nSamuel Alejandro Cruz Saavedra\nMateo Bustos Aguilar")
         title.setFont(QFont('Arial', 16, QFont.Bold))
         title.setStyleSheet("margin-bottom: 15px;")
         title.setAlignment(Qt.AlignCenter)
         layout.addWidget(title)
+        
+        # Subtítulo con información académica
+        subtitle = QLabel("Estudiantes de Ingeniería Mecatrónica")
+        subtitle.setFont(QFont('Arial', 12, QFont.Normal))
+        subtitle.setStyleSheet("margin-bottom: 15px; color: gray;") 
+        subtitle.setAlignment(Qt.AlignCenter)
+        layout.addWidget(subtitle)
 
 
         # Botones de control
