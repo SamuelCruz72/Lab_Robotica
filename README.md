@@ -20,3 +20,5 @@ En este repositorio se incluyen todos los archivos fuente y la documentación re
 2. [Robótica Industrial - Trayectorias, Entradas y Salidas Digitales](https://github.com/SamuelCruz72/Laboratorio_Robotica/blob/main/Lab_2.md)
 3. [Robótica Industrial - Análisis y Operación del Manipulador Motoman MH6](https://github.com/SamuelCruz72/Laboratorio_Robotica/blob/main/Lab_3.md)
 4. [Cinemática Directa - Phantom X - ROS](https://github.com/SamuelCruz72/Laboratorio_Robotica/blob/main/Lab_4.md)
+5. [Proyecto Robótica](https://github.com/SamuelCruz72/Laboratorio_Robotica/blob/main/Lab_4.md)
+
