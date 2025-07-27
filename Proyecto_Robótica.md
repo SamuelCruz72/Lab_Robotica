@@ -3,7 +3,9 @@ En este informe se describe el proceso de desarrollo de un sistema robótico par
 
 ## Diseño del Gripper y las Arepas
 
-En primer lugar se diseñó 
+En primer lugar se diseñó el mecanismo del gripper, para ello se propusieron algunos bocetos del mecanismo que abría y cerraba una pinza mediante el accionamiento de un gripper electroneumático MCHA-20, estad fueron algunas de las opciones propuestas:
+
+
 
 ## Distribución del Espacio
 
