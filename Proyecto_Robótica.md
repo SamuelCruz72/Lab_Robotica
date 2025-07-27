@@ -32,4 +32,44 @@ Finalmente, con dicho modelado se imprimió todo el mecanismo con filamento de P
 
 ## Distribución del Espacio
 
+
+
 ## Secuencia General de Movimientos
+
+La secuencia general del movimiento se detalla en el siguiente diagrama de flujo:
+
+```mermaid
+flowchart TD
+    A[Acercamiento a la estanteria] --> B[Agarre de la arepa]
+
+    B --> K[Acercamiento a la estufa]
+
+    K --> C[Liberación de la arepa]
+
+    C --> E[Agarre de la Arepa]
+    E --> F[Volteado de la Arepa]
+
+    F --> G[Liberación de la arepa]
+
+    G --> I[Agarre de la arepa]
+    I --> J[Acercamiento a la banda]
+    J --> M[Liberación de la arepa]
+
+```
+
+Mientras que el proceso de agarre de la arepa se presenta a continuación:
+
+```mermaid
+flowchart TD
+    A[Apertura de la pinza] --> B[Acercamiento a la arepa]
+
+    B --> C[Cierre de la pinza]
+```
+
+A su vez el proceso de liberación de la arepa se muestra a continuación:
+
+```mermaid
+flowchart TD
+    A[Apertura de la pinza] --> B[Alejamiento de la arepa]
+    B --> C[Espera del robot]
+```
