@@ -13,7 +13,8 @@ En este informe se describe el proceso de desarrollo de un sistema robótico par
 
 * Diseñar e implementar una interfaz humano-máquina (HMI) en el FlexPendant mediante la herramienta ScreenMaker, que permita seleccionar arepas desde la vitrina de almacenamiento, monitorear el estado del proceso, y gestionar las ubicaciones dentro del área de cocción.
 
-## Diseño del Gripper y las Arepas
+## Procedimiento
+### Diseño del Gripper y las Arepas
 
 En primer lugar se diseñó el mecanismo del gripper, para ello se propusieron algunos bocetos del mecanismo que abría y cerraba una pinza mediante el accionamiento de un gripper electroneumático MCHA-20, estas fueron algunas de las opciones propuestas: 
 
@@ -75,7 +76,7 @@ El modelo de arepas usadas fueron arepas circulares de 6, 7 cm de radio, y unas 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/e3723622-7ce1-48d4-8d82-d9189592d010" alt="boceto2 pinza" width="300"><br>
 
-## Distribución del Espacio
+### Distribución del Espacio
 
 Para la distribución del espacio de trabajo, se tuvo que crear una repisa en la que las arepas iban a permanecer, se tenía que construir una estufa para asar las arepas y posteriormente la banda para servirlas, por facilidad y espacio del laboratorio, se unieron las estructuras de la repisa y la estufa, se puso un espacio considerable entre la mesa para diferenciar cada estación, la siguiente imagen es la estructura que funge como estufa y la repisa:
 
@@ -92,7 +93,7 @@ Una vista superior de la planta de RobotStudio con los objetos utilizados se ve 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/948b860b-f1bf-4203-8a87-72cb715a17a9" alt="Estufa" width="300"><br> 
 
-## HMI- Human-Machine Interface
+### HMI- Human-Machine Interface
 
 Para la creación del HMI se hizo uso de una herramienta integrada en RobotStudio que permite diseñar interfaces gráficas personalizadas para los FlexPendant de los robots ABB, la herramienta facilita el proceso, debido a que deja a un simple switch el manipular la arepa, adicionalmente tiene leds para indicar al usuario que acción ya fue realizada, como el de selección de arepa, para el caso de voltearlas y servirlas se puede usar más de una vez.
 
@@ -100,7 +101,7 @@ Para la creación del HMI se hizo uso de una herramienta integrada en RobotStudi
    <img src="https://github.com/user-attachments/assets/d7dbeab4-1158-41fc-81be-cb3da8695f45" alt="Estufa" width="400"><br> 
 
 
-## Secuencia General de Movimientos
+### Secuencia General de Movimientos
 
 La secuencia general del movimiento se detalla en el siguiente diagrama de flujo:
 
@@ -140,7 +141,7 @@ flowchart TD
     B --> C[Espera del robot]
 ```
 
-## Simulación e implementación
+### Simulación e implementación
 El funcionamiento del proyecto tanto en simulación como la implementación física se muestra a continuación:
 
 [Proyecto de robótica industrial](https://youtu.be/q1cAozlktmo)
