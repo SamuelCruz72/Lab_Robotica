@@ -58,6 +58,15 @@ Finalmente, se imprimieron todas las pezas que componen todo el mecanismo con fi
 
 ## Distribución del Espacio
 
+Para la distribución del espacio de trabajo, se tuvo que crear una repisa en la que las arepas iban a permanecer, se tenía que construir una estufa para asar las arepas y posteriormente la banda para servirlas, por facilidad y espacio del laboratorio, se unieron las estructuras de la repisa y la estufa, se puso un espacio considerable entre la mesa para diferenciar cada estación, la siguiente imagen es la estructura que funge como estufa y la repisa:
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/381708a0-0c10-402f-8d05-105a7164b392" alt="Estufa" width="300"><br> 
+
+Luego se tiene la banda transportadora: 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/b4b7b9f6-35b7-4aee-8ffd-7cc662e7bda7" alt="Estufa" width="300"><br> 
 
 
 ## Secuencia General de Movimientos
