@@ -1,5 +1,17 @@
 # Proyecto Robótica Industrial - Automatización del Proceso de Preparación de Arepas
+
+## Introducción
 En este informe se describe el proceso de desarrollo de un sistema robótico para automatizar el proceso de preparación de arepas, para ello se detalla el proceso de diseño y construcción de un gripper para que el robot ABB IRB-140 agarre las arepas de una mesa, las coloque en una parrilla, las voltee una vez estén cocidas y las recoja de la parrilla una vez estén totalmente cocinadas; a su vez se describe el proceso de generación de trayectorias para que el robot se acerque a las arepas, las tome, las voltee y las deje en los lugares deseados.
+
+## Objetivos
+
+* Diseñar e implementar un sistema robotizado funcional para la automatización del proceso de preparación de arepas, incluyendo la manipulación, cocción, volteo y entrega del producto final, integrando elementos de robótica industrial, control electroneumático y simulación en RobotStudio.
+
+* Desarrollar una herramienta personalizada de agarre (gripper) adaptada a diferentes tamaños y formas de arepas, que sea compatible con los actuadores disponibles en el laboratorio y que garantice un manejo seguro, eficiente e higiénico de los alimentos durante todo el proceso.
+
+* Evaluar y comparar la eficiencia del proceso robotizado frente al proceso manual, mediante pruebas cronometradas de alistamiento y cocción, cuantificando mejoras en precisión, velocidad, repetibilidad e higiene alimentaria.
+
+* Diseñar e implementar una interfaz humano-máquina (HMI) en el FlexPendant mediante la herramienta ScreenMaker, que permita seleccionar arepas desde la vitrina de almacenamiento, monitorear el estado del proceso, y gestionar las ubicaciones dentro del área de cocción.
 
 ## Diseño del Gripper y las Arepas
 
