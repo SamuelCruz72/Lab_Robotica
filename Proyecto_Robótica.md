@@ -44,7 +44,7 @@ El diseño electo fue la primera opción dado que reducía considerablemente el 
 
 Una vez se terminó el modelado de las piezas, se ensamblaron con el software Inventor de la siguiente forma:
 
-<img width="745" height="706" alt="image" src="https://github.com/user-attachments/assets/e28de8f9-140e-4f4a-90a6-22ae5255e87a" />
+
 
 Finalmente, se imprimieron todas las pezas que componen todo el mecanismo con filamento de PLA en una impresora 3D y se ensamblaron con tornillos de 3 mm de diámetro: 
 
