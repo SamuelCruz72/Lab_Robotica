@@ -68,6 +68,11 @@ Luego se tiene la banda transportadora:
 <p align="center">
    <img src="https://github.com/user-attachments/assets/b4b7b9f6-35b7-4aee-8ffd-7cc662e7bda7" alt="Estufa" width="300"><br> 
 
+Una vista superior de la planta de RobotStudio con los objetos utilizados se ve de la siguiente forma:
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/948b860b-f1bf-4203-8a87-72cb715a17a9" alt="Estufa" width="300"><br> 
+
 
 ## Secuencia General de Movimientos
 
