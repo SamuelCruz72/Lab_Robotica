@@ -98,7 +98,15 @@ Una vista superior de la planta de RobotStudio con los objetos utilizados se ve 
 Para realizar la simulación es necesario configurar la herramienta para asignarle funciones de un componente inteligente mediante el siguiente proceso
 
 1. Importar y configurar las piezas del ensamble
-Luego de importar la geometría del ensamble, es necesario unir cada una de las piezas pensando en el mecanismo como eslabones unidos por ejes.
+
+Luego de importar la geometría del ensamble, es necesario unir cada una de las piezas pensando en el mecanismo como eslabones unidos por ejes. Posteriormente se elige la opción "Crear Mecanismo" en este caso el mecanismo corresponde a una herramienta de tipo articulado.
+
+2. Configurar el mecanismo
+La herramienta de tipo articulado solicita como primer paso los eslabones que anteriormente ya se configuraron como piezas, en este caso el actuador y el flange se unen para formar el eslabón base, posteriormente los eslabones de la tijera y de las pinzas unidas con las piezas en forma de L.
+Una vez configurados los eslabones es necesario configurar los ejes que unen dichos eslabones. De tal forma que se colocan dos puntos por los cuales pasa el eje, los eslabones que dependen de dicho eje y los límites de movimiento que tienen los eslabones respecto a ese eje.
+Luego se configura el TCP de la herramienta ubicando un punto de forma manual o seleccionando un marco de coordenadas ya creado.
+Por último se configura la dependencia de ejes, ya que en este caso, el mecanismo basa su funcionamiento en un punto de pivote que permite una mayor apertura de las pinzas mediante eslabones unidos a dicho punto. Por ello fue necesario entontrar un factor de relación entre los ejes dependiendo del ángulo que recorre cada eslabón entre la posición de abierto y cerrado.  
+
 
 ### HMI- Human-Machine Interface
 
