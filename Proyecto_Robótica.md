@@ -146,4 +146,5 @@ El funcionamiento del proyecto tanto en simulación como la implementación fís
 
 [Proyecto de robótica industrial](https://youtu.be/q1cAozlktmo)
 
+[Proyecto](Proyecto/Project)
 
