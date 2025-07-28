@@ -78,7 +78,8 @@ El modelo de arepas usadas fueron arepas circulares de 6, 7 cm de radio, y unas 
 
 ### Distribución del Espacio
 
-Para la distribución del espacio de trabajo, se tuvo que crear una repisa en la que las arepas iban a permanecer, se tenía que construir una estufa para asar las arepas y posteriormente la banda para servirlas, por facilidad y espacio del laboratorio, se unieron las estructuras de la repisa y la estufa, se puso un espacio considerable entre la mesa para diferenciar cada estación, la siguiente imagen es la estructura que funge como estufa y la repisa:
+Para la distribución del espacio de trabajo, hubo la necesidad de crear una repisa en la que las arepas iban a permanecer, se tenía que construir una estufa para asar las arepas y posteriormente la banda para servirlas, por facilidad y espacio del laboratorio, se unieron las estructuras de la repisa y la estufa, se puso un espacio considerable entre la mesa para diferenciar cada estación, las dimensiones de los modelados se establecieron de acuerdo a las existentes en el laboratorio de tal forma que facilitara adecuar el espacio de trabajo de la simulación a la realidad.
+La siguiente imagen es la estructura que funge como estufa y la repisa:
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/381708a0-0c10-402f-8d05-105a7164b392" alt="Estufa" width="300"><br> 
@@ -92,6 +93,12 @@ Una vista superior de la planta de RobotStudio con los objetos utilizados se ve 
 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/948b860b-f1bf-4203-8a87-72cb715a17a9" alt="Estufa" width="300"><br> 
+
+### Creación del Smart component
+Para realizar la simulación es necesario configurar la herramienta para asignarle funciones de un componente inteligente mediante el siguiente proceso
+
+1. Importar y configurar las piezas del ensamble
+Luego de importar la geometría del ensamble, es necesario unir cada una de las piezas pensando en el mecanismo como eslabones unidos por ejes.
 
 ### HMI- Human-Machine Interface
 
@@ -146,5 +153,9 @@ El funcionamiento del proyecto tanto en simulación como la implementación fís
 
 [Proyecto de robótica industrial](https://youtu.be/q1cAozlktmo)
 
+El proyecto realizado en RobotStudio que contiene el archivo .mod, el controlador y demás paquetes necesarios para la simulación se encuentran en el siguiente directorio:
+
 [Proyecto](Proyecto/Project)
+
+
 
