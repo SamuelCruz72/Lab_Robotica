@@ -130,6 +130,7 @@ flowchart TD
 
 ## Simulación e implementación
 El funcionamiento del proyecto tanto en simulación como la implementación física se muestra a continuación:
-[YouTube](https://youtu.be/q1cAozlktmo)
+
+[Proyecto de robótica industrial](https://youtu.be/q1cAozlktmo)
 
 
