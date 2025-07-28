@@ -55,6 +55,13 @@ Finalmente, se imprimieron todas las pezas que componen todo el mecanismo con fi
 <p align="center">
    <img src="Figuras\Proyecto\Gripper Cerrado.jpg" alt="boceto2 pinza" width="300"><br> 
 
+El modelo de arepas usadas fueron arepas circulares de 6, 7 cm de radio, y unas arepas cuadradas de 5 cm de lado, aunque se imprimieron en 3D, finalmente se usaron arepas reales envueltas en aluminio:
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/8f2c5e5f-1840-4a7e-a620-b4b8fda3c8e8" alt="boceto2 pinza" width="300"><br> 
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/e3723622-7ce1-48d4-8d82-d9189592d010" alt="boceto2 pinza" width="300"><br>
 
 ## Distribución del Espacio
 
