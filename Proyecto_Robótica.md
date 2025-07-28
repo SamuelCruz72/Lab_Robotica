@@ -181,5 +181,11 @@ El proyecto realizado en RobotStudio que contiene el archivo .mod, el controlado
 [Proyecto](Proyecto/Project)
 
 ## Conclusiones
+* El proyecto demostró que es posible automatizar exitosamente una tarea tradicional como la preparación de arepas, mediante la integración de un robot industrial, actuadores neumáticos y una interfaz de control personalizada. La implementación cubrió desde la manipulación de las arepas en la vitrina hasta su cocción y entrega, replicando un proceso real bajo condiciones controladas.
 
+* El desarrollo de un gripper adaptado a la geometría de las arepas representó un reto técnico clave. Se logró un diseño funcional que permite una sujeción firme y precisa del alimento sin comprometer su integridad física. Este diseño fue validado tanto en simulación como en la interacción con el robot ABB en RobotStudio.
+
+* El desarrollo del proyecto permitió aplicar de forma práctica los conocimientos adquiridos en el curso, especialmente en programación de robots ABB, uso de sistemas neumáticos, diseño de grippers, y simulación en RobotStudio.
+
+* El éxito del sistema automatizado dependió en gran medida de la correcta selección y diseño de la herramienta de agarre, que debía adaptarse a productos alimenticios de diferentes formas y texturas. Esta experiencia resalta cómo el diseño mecánico debe considerar no solo la funcionalidad, sino también aspectos como la accesibilidad y seguridad.
 
