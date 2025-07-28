@@ -73,6 +73,13 @@ Una vista superior de la planta de RobotStudio con los objetos utilizados se ve 
 <p align="center">
    <img src="https://github.com/user-attachments/assets/948b860b-f1bf-4203-8a87-72cb715a17a9" alt="Estufa" width="300"><br> 
 
+## HMI- Human-Machine Interface
+
+Para la creación del HMI se hizo uso de una herramienta integrada en RobotStudio que permite diseñar interfaces gráficas personalizadas para los FlexPendant de los robots ABB, la herramienta facilita el proceso, debido a que deja a un simple switch el manipular la arepa, adicionalmente tiene leds para indicar al usuario que acción ya fue realizada, como el de selección de arepa, para el caso de voltearlas y servirlas se puede usar más de una vez.
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/d7dbeab4-1158-41fc-81be-cb3da8695f45" alt="Estufa" width="300"><br> 
+
 
 ## Secuencia General de Movimientos
 
