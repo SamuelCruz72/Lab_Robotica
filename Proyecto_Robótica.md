@@ -102,11 +102,21 @@ Para realizar la simulación es necesario configurar la herramienta para asignar
 Luego de importar la geometría del ensamble, es necesario unir cada una de las piezas pensando en el mecanismo como eslabones unidos por ejes. Posteriormente se elige la opción "Crear Mecanismo" en este caso el mecanismo corresponde a una herramienta de tipo articulado.
 
 2. Configurar el mecanismo
+
 La herramienta de tipo articulado solicita como primer paso los eslabones que anteriormente ya se configuraron como piezas, en este caso el actuador y el flange se unen para formar el eslabón base, posteriormente los eslabones de la tijera y de las pinzas unidas con las piezas en forma de L.
 Una vez configurados los eslabones es necesario configurar los ejes que unen dichos eslabones. De tal forma que se colocan dos puntos por los cuales pasa el eje, los eslabones que dependen de dicho eje y los límites de movimiento que tienen los eslabones respecto a ese eje.
 Luego se configura el TCP de la herramienta ubicando un punto de forma manual o seleccionando un marco de coordenadas ya creado.
 Por último se configura la dependencia de ejes, ya que en este caso, el mecanismo basa su funcionamiento en un punto de pivote que permite una mayor apertura de las pinzas mediante eslabones unidos a dicho punto. Por ello fue necesario entontrar un factor de relación entre los ejes dependiendo del ángulo que recorre cada eslabón entre la posición de abierto y cerrado.  
 
+3. Establecer las poses
+
+Ya que el actuador se acciona neumáticamente, solo existen dos poses para el mecanismo, una que corresponde a la inicial y otra donde la apertura es máxima, de esta forma se configura el mecanismo para que disponga de dos poses.
+
+4. Configurar Smart Component
+Luego se elige la opcion de crear componente inteligente y se crean 2 entradas digitales que serán las encargadas de abrir y cerrar el mecanismo. Posteriormente se agregan los bloques "PoseMover" que permite llevar un mecanismo a una pose configurada previamente. En estos bloques se elige el mecanismo que se desea configurar y la pose objetivo. Por último se conectan las entradas digitales a su correspondiente bloque, especificamente en "Execute".
+
+5. Configurar lógica de la estación
+Para controlar las poses del mecanismo desde el codigo de RAPID es necesario crear dos salidas digitales a las que se asociarán las entradas correspondientes del Smart Component. Es asi que en la sección de comexiones en "Logica de la estación" se asocia las salidas digitales provenientes del controlador, con las entradas digitales provenientes del Smart Component.
 
 ### HMI- Human-Machine Interface
 
