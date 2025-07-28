@@ -101,6 +101,9 @@ Para realizar la simulación es necesario configurar la herramienta para asignar
 
 Luego de importar la geometría del ensamble, es necesario unir cada una de las piezas pensando en el mecanismo como eslabones unidos por ejes. Posteriormente se elige la opción "Crear Mecanismo" en este caso el mecanismo corresponde a una herramienta de tipo articulado.
 
+<p align="center">
+   <img src="Figuras\Proyecto\grip.png" alt="boceto2 pinza" width="300"><br> 
+
 #### Configurar el mecanismo
 
 La herramienta de tipo articulado solicita como primer paso los eslabones que anteriormente ya se configuraron como piezas, en este caso el actuador y el flange se unen para formar el eslabón base, posteriormente los eslabones de la tijera y de las pinzas unidas con las piezas en forma de L.
@@ -177,5 +180,6 @@ El proyecto realizado en RobotStudio que contiene el archivo .mod, el controlado
 
 [Proyecto](Proyecto/Project)
 
+## Conclusiones
 
 
